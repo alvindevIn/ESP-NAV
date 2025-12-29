@@ -66,20 +66,19 @@ cd esp32-oled-chronos
 4. Upload the code to the ESP32
 
 ## Code Setup
-├── setup()
-│   ├── OLED initialization
-│   ├── Chronos callbacks
-│   └── Touch configuration
-│
-├── loop()
-│   ├── Chronos loop handler
-│   ├── Touch handler
-│   └── Mode renderer
-│
-├── renderEye()
-├── renderClock()
-├── renderNavigation()
+setup()
+- OLED initialization
+- Chronos callbacks
+- Touch configuration
 
+loop()
+- Chronos loop handler
+- Touch handler
+- Mode renderer
+
+renderEye()
+renderClock()
+renderNavigation()
 
 👤 Author
 Alvin

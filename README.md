@@ -80,6 +80,21 @@ renderEye()
 renderClock()
 renderNavigation()
 
+## How to Use
+1. Install Chronos from the Play Store
+2. Make sure Bluetooth is turned on
+3. Open the Chronos app
+4. Go to the Watch tab
+5. Connect to espNav
+6. After connected, go back to the Watch tab
+7. Select “ESP32 Manager”
+8. Enable Notification Permission
+9. Go back, then open the Notification tab
+10. Select Apps
+11. Make sure Maps is enabled
+12. finally, test with Google Maps
+
+
 👤 Author
 Alvin
 ESP32 · IoT · Embedded Systems

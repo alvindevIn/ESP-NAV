@@ -15,7 +15,7 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 /* ================= CHRONOS ================= */
-ChronosESP32 watch("vario alvin");
+ChronosESP32 watch("EspNav");
 Navigation currentNavData;
 bool isNavigationActive = false;
 bool navChange = false;

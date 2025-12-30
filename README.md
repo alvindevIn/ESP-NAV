@@ -56,7 +56,7 @@ Ensure the following libraries are installed:
 
 ## setup & installation
 1. clone repository:
-git clone https://github.com/username/esp32-oled-chronos.git
+git clone https://github.com/alvindevIn/ESP-NAV
 cd esp32-oled-chronos
 
 2. Open the project using Arduino IDE
